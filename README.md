@@ -14,5 +14,6 @@ Web Interface: A creative and responsive frontend built with HTML and CSS.
 
 Real-Time Processing: Seamlessly combines live video feed and drawing in real-time.
 
-https://github.com/ShaliniBiswal-2512/Air-Canvas/blob/main/main.py
+https://github.com/ShaliniBiswal-2512/Air-Canvas
+
 
